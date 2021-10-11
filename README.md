@@ -1,6 +1,6 @@
 # lap3_python_dynamic_server
 
-[test.txt](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/index.html)
+[test.txt](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/test.txt)
 
 [abc.txt](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/abc.txt)
 
