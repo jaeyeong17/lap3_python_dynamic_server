@@ -9,3 +9,5 @@
 [myWeb.py](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/myWeb.py)
 
 [VIDEO](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/VIDEO.mp4)
+
+[video](https://github.com/jaeyeong17/lap3_python_dynamic_server/blob/main/KakaoTalk_20211015_094149023.mp4)
